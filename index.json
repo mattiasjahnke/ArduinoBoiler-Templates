@@ -1,5 +1,7 @@
 {
-  "name": "DigitalReadSerial",
-  "filename": "DigitalReadSerial.ino",
-  "description": ""
+	"templates": [{
+		"name": "DigitalReadSerial",
+		"filename": "DigitalReadSerial.ino",
+		"description": ""
+	}]
 }
