@@ -9,7 +9,7 @@
 */
 
 // digital pin 2 has a pushbutton attached to it. Give it a name:
-int pushButton = ?{"name":"pushButton", "text": "The pin number that the pushbutton is attached to", "default": "2"};
+int pushButton = :{"name":"pushButton", "text": "The pin number that the pushbutton is attached to", "default": "2"};
 
 // the setup routine runs once when you press reset:
 void setup() {
